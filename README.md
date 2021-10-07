@@ -6,9 +6,8 @@
  TOOL ABOUT
  ```
 * THIS TOOL IS ABOUT OF RANDOM Facebook CLONING.
-* You CAN Cloning With B_api Method, OLD IDZ CLONING And Also WITHOUT LOGIN Cloning. 
-* You can cloning FriendList, PUBLIC ID and also FILE  Cloning ADDED.
-```
+* You CAN Cloning With  WITHOUT LOGIN Cloning. 
+* 
 ```python
 * apt update -y
 
