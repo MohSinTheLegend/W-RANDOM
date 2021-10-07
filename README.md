@@ -3,35 +3,34 @@
 
 
 
- # Script run on termux or linux
-``` python
-pkg update
-
-*pkg upgrade
-
-*pkg install python2 
-
-*pkg install git 
-
-*rm -rf W-RANDOM
-
-*git clone https://github.com/MohsinTheLegend/W-RANDOM
-
-*cd W-RANDOM
-
-*pip2 install mechanize
-
-*pip2 install requests
-
-*pip2 install nodejs 
-
-*pip2 install npm 
-
-*pip2 install requests bs4
-
-*python2 MOHSIN.xo
+ TOOL ABOUT
+ ```
+* THIS TOOL IS ABOUT OF RANDOM Facebook CLONING.
+* You CAN Cloning With B_api Method, OLD IDZ CLONING And Also WITHOUT LOGIN Cloning. 
+* You can cloning FriendList, PUBLIC ID and also FILE  Cloning ADDED.
 ```
+```python
+* apt update -y
 
+* apt upgrade
+
+* apt install git -y
+
+* apt install python2 -y
+
+* rm -rf W-RANDOM
+
+* git clone https://github.com/MohSinTheLegend/W-RANDOM
+
+* cd W-RANDOM
+
+* pip2 install requests
+
+* pip2 install mechanize
+
+* python2 MOHSIN.py
+```
+ 
 # Tool User And Pass
 ```
 ➤ *Username : No Need
